@@ -1,0 +1,11 @@
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Domain\bin\Debug\net8.0\DeportesApi.Domain.deps.json
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Domain\bin\Debug\net8.0\DeportesApi.Domain.dll
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Domain\bin\Debug\net8.0\DeportesApi.Domain.pdb
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Domain\obj\Debug\net8.0\DeportesApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Domain\obj\Debug\net8.0\DeportesApi.Domain.AssemblyInfoInputs.cache
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Domain\obj\Debug\net8.0\DeportesApi.Domain.AssemblyInfo.cs
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Domain\obj\Debug\net8.0\DeportesApi.Domain.csproj.CoreCompileInputs.cache
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Domain\obj\Debug\net8.0\DeportesApi.Domain.dll
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Domain\obj\Debug\net8.0\refint\DeportesApi.Domain.dll
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Domain\obj\Debug\net8.0\DeportesApi.Domain.pdb
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Domain\obj\Debug\net8.0\ref\DeportesApi.Domain.dll

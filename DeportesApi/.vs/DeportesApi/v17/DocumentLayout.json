@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PRUEBACM\\CminaDeportesApi\\DeportesApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{842B4C7F-917D-45AA-B472-EC39E768C6A9}|DeportesApi\\DeportesApi.csproj|c:\\pruebacm\\cminadeportesapi\\deportesapi\\deportesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842B4C7F-917D-45AA-B472-EC39E768C6A9}|DeportesApi\\DeportesApi.csproj|solutionrelative:deportesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842B4C7F-917D-45AA-B472-EC39E768C6A9}|DeportesApi\\DeportesApi.csproj|c:\\pruebacm\\cminadeportesapi\\deportesapi\\deportesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{842B4C7F-917D-45AA-B472-EC39E768C6A9}|DeportesApi\\DeportesApi.csproj|solutionrelative:deportesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55936C8-A4F7-4D6D-A893-3F71490666D4}|DeportesApi.Application\\DeportesApi.Application.csproj|c:\\pruebacm\\cminadeportesapi\\deportesapi\\deportesapi.application\\services\\resultadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55936C8-A4F7-4D6D-A893-3F71490666D4}|DeportesApi.Application\\DeportesApi.Application.csproj|solutionrelative:deportesapi.application\\services\\resultadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842B4C7F-917D-45AA-B472-EC39E768C6A9}|DeportesApi\\DeportesApi.csproj|c:\\pruebacm\\cminadeportesapi\\deportesapi\\deportesapi\\controllers\\resultadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842B4C7F-917D-45AA-B472-EC39E768C6A9}|DeportesApi\\DeportesApi.csproj|solutionrelative:deportesapi\\controllers\\resultadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 236,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PRUEBACM\\CminaDeportesApi\\DeportesApi\\DeportesApi\\Program.cs",
+              "RelativeDocumentMoniker": "DeportesApi\\Program.cs",
+              "ToolTip": "C:\\PRUEBACM\\CminaDeportesApi\\DeportesApi\\DeportesApi\\Program.cs",
+              "RelativeToolTip": "DeportesApi\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T20:08:21.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\PRUEBACM\\CminaDeportesApi\\DeportesApi\\DeportesApi\\appsettings.json",
+              "RelativeDocumentMoniker": "DeportesApi\\appsettings.json",
+              "ToolTip": "C:\\PRUEBACM\\CminaDeportesApi\\DeportesApi\\DeportesApi\\appsettings.json",
+              "RelativeToolTip": "DeportesApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAANDMzMzPbvxMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T20:07:56.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultadoService.cs",
+              "DocumentMoniker": "C:\\PRUEBACM\\CminaDeportesApi\\DeportesApi\\DeportesApi.Application\\Services\\ResultadoService.cs",
+              "RelativeDocumentMoniker": "DeportesApi.Application\\Services\\ResultadoService.cs",
+              "ToolTip": "C:\\PRUEBACM\\CminaDeportesApi\\DeportesApi\\DeportesApi.Application\\Services\\ResultadoService.cs",
+              "RelativeToolTip": "DeportesApi.Application\\Services\\ResultadoService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T20:07:44.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultadosController.cs",
+              "DocumentMoniker": "C:\\PRUEBACM\\CminaDeportesApi\\DeportesApi\\DeportesApi\\Controllers\\ResultadosController.cs",
+              "RelativeDocumentMoniker": "DeportesApi\\Controllers\\ResultadosController.cs",
+              "ToolTip": "C:\\PRUEBACM\\CminaDeportesApi\\DeportesApi\\DeportesApi\\Controllers\\ResultadosController.cs",
+              "RelativeToolTip": "DeportesApi\\Controllers\\ResultadosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T20:07:23.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

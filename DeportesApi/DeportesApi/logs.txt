@@ -1,0 +1,3 @@
+14/02/2025 19:10:56: Intento fallido: Deportista 122 no encontrado.
+14/02/2025 19:11:23: Nuevo intento registrado para Deportista 1: Envion - 900kg
+14/02/2025 19:11:50: Intento fallido: Deportista 122 no encontrado.

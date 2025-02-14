@@ -1,0 +1,103 @@
+[
+  {
+    "ContainingType": "DeportesApi.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DeportesApi.Controllers.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeportesApi.Controllers.DeportistasController",
+    "Method": "CreateDeportista",
+    "RelativePath": "api/Deportistas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deportistaDto",
+        "Type": "DeportesApi.Application.DTOs.DeportistaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeportesApi.Controllers.IntentosController",
+    "Method": "AddIntento",
+    "RelativePath": "api/Intentos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "intentoDto",
+        "Type": "DeportesApi.Application.DTOs.IntentoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeportesApi.Controllers.IntentosController",
+    "Method": "GetTotalIntentosDetalle",
+    "RelativePath": "api/Intentos/{deportistaId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deportistaId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeportesApi.Controllers.IntentosController",
+    "Method": "GetTotalIntentos",
+    "RelativePath": "api/Intentos/total-intentos/{deportistaId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deportistaId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeportesApi.Controllers.ResultadosController",
+    "Method": "GetResultados",
+    "RelativePath": "api/Resultados",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,17 @@
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\bin\Debug\net8.0\DeportesApi.Application.deps.json
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\bin\Debug\net8.0\DeportesApi.Application.dll
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\bin\Debug\net8.0\DeportesApi.Application.pdb
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\bin\Debug\net8.0\DeportesApi.Domain.dll
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\bin\Debug\net8.0\DeportesApi.Infrastructure.dll
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\bin\Debug\net8.0\DeportesApi.Domain.pdb
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\bin\Debug\net8.0\DeportesApi.Infrastructure.pdb
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\obj\Debug\net8.0\DeportesApi.Application.csproj.AssemblyReference.cache
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\obj\Debug\net8.0\DeportesApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\obj\Debug\net8.0\DeportesApi.Application.AssemblyInfoInputs.cache
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\obj\Debug\net8.0\DeportesApi.Application.AssemblyInfo.cs
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\obj\Debug\net8.0\DeportesApi.Application.csproj.CoreCompileInputs.cache
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\obj\Debug\net8.0\Deportes.621BAAA0.Up2Date
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\obj\Debug\net8.0\DeportesApi.Application.dll
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\obj\Debug\net8.0\refint\DeportesApi.Application.dll
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\obj\Debug\net8.0\DeportesApi.Application.pdb
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\obj\Debug\net8.0\ref\DeportesApi.Application.dll

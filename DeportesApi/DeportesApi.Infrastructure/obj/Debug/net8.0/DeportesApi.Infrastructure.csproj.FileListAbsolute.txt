@@ -1,0 +1,17 @@
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\bin\Debug\net8.0\DeportesApi.Infrastructure.deps.json
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\bin\Debug\net8.0\DeportesApi.Infrastructure.runtimeconfig.json
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\bin\Debug\net8.0\DeportesApi.Infrastructure.dll
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\bin\Debug\net8.0\DeportesApi.Infrastructure.pdb
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\bin\Debug\net8.0\DeportesApi.Domain.dll
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\bin\Debug\net8.0\DeportesApi.Domain.pdb
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\obj\Debug\net8.0\DeportesApi.Infrastructure.csproj.AssemblyReference.cache
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\obj\Debug\net8.0\DeportesApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\obj\Debug\net8.0\DeportesApi.Infrastructure.AssemblyInfoInputs.cache
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\obj\Debug\net8.0\DeportesApi.Infrastructure.AssemblyInfo.cs
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\obj\Debug\net8.0\DeportesApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\obj\Debug\net8.0\Deportes.3368504C.Up2Date
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\obj\Debug\net8.0\DeportesApi.Infrastructure.dll
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\obj\Debug\net8.0\refint\DeportesApi.Infrastructure.dll
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\obj\Debug\net8.0\DeportesApi.Infrastructure.pdb
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\obj\Debug\net8.0\DeportesApi.Infrastructure.genruntimeconfig.cache
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\obj\Debug\net8.0\ref\DeportesApi.Infrastructure.dll
