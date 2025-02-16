@@ -953,7 +953,6 @@
       },
       "DeportesApi.Application/1.0.0": {
         "dependencies": {
-          "DeportesApi.Domain": "1.0.0",
           "DeportesApi.Infrastructure": "1.0.0"
         },
         "runtime": {

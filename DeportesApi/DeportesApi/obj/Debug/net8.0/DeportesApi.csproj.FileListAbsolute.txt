@@ -154,3 +154,4 @@ C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi\obj\Debug\net8.0\ref\Deport
 C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
 C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi\obj\Debug\net8.0\DeportesApi.sourcelink.json

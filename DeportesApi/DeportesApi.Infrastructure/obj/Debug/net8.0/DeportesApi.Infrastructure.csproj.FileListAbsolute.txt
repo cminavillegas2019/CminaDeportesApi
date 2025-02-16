@@ -15,3 +15,4 @@ C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\obj\Debug\ne
 C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\obj\Debug\net8.0\DeportesApi.Infrastructure.pdb
 C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\obj\Debug\net8.0\DeportesApi.Infrastructure.genruntimeconfig.cache
 C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\obj\Debug\net8.0\ref\DeportesApi.Infrastructure.dll
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Infrastructure\obj\Debug\net8.0\DeportesApi.Infrastructure.sourcelink.json

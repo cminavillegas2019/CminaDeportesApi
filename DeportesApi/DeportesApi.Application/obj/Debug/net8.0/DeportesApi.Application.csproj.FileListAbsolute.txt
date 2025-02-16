@@ -15,3 +15,4 @@ C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\obj\Debug\net8.
 C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\obj\Debug\net8.0\refint\DeportesApi.Application.dll
 C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\obj\Debug\net8.0\DeportesApi.Application.pdb
 C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\obj\Debug\net8.0\ref\DeportesApi.Application.dll
+C:\PRUEBACM\CminaDeportesApi\DeportesApi\DeportesApi.Application\obj\Debug\net8.0\DeportesApi.Application.sourcelink.json
